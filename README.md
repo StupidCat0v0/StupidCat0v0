@@ -6,4 +6,4 @@
 - 🌱 learning C#
 - 📫 How to reach: stupidcat14514@gmail.com
 
-![PANDA's GitHub stats](https://github-readme-stats.vercel.app/api?username=StupidCat0v0&show_icons=true&theme=gotham)
+![StupidCat0v0's GitHub stats](https://github-readme-stats.vercel.app/api?username=StupidCat0v0&show_icons=true&theme=gotham)

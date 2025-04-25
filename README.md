@@ -4,7 +4,7 @@
 
 - 🔭 working on school
 - 🌱 learning C#
-- 📫 How to reach: stupidcat14514@gmail.com
--               -space.bilibili.com/545222794
+- 📫 How to reach: google:stupidcat14514@gmail.com  qq:3477307177
+https://space.bilibili.com/545222794
 
 ![StupidCat0v0's GitHub stats](https://github-readme-stats.vercel.app/api?username=StupidCat0v0&show_icons=true&theme=gotham)
